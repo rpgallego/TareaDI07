@@ -53,7 +53,7 @@ Formulario.java
 ```bash
 java -jar NombreDelProyecto.jar
 ```
-
+Una vez instalada la aplicacion se crea un acceso directo al escritorio
 ---
 
 ## 💾 Instalación (Windows)
